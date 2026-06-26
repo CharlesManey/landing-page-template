@@ -1,3 +1,10 @@
-body {background-color: blanchedalmond;}
+body {
+    background-color: purple;
+    border: 3px solid dashed;
+    margin: 10px;
 
-p {color: blue;}
+}
+
+p {
+    color: green;
+}
