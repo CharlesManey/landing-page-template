@@ -1,10 +1,11 @@
 body {
-    background-color: purple;
-    border: 3px solid dashed;
-    margin: 10px;
 
+    background-color: purple;
+    margin: 0;
+    border: 1px solid;
 }
 
 p {
-    color: green;
+    color: blue;
+
 }
